@@ -1,4 +1,4 @@
-# Machine-Learning-Report1
+# Machine-Learning-Report-Stage-1
 
 This is the code we used so far in Drowsiness Detection. For the code to run properly you need to feed it with the flags -o, which means output (it gives the path where the data will be droped after the main file runs), and then also provide -d with the path to the database. 
 
